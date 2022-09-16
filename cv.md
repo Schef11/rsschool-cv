@@ -32,7 +32,7 @@ multiply();
  QA Academy-Testing Basics
 # EDUCATION
  Belarusian State Pedagogical University named after M. Tank
-# ENGLISH
+# LANGUAGES
 * Russian
 * English - A2
 * German 
