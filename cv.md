@@ -25,7 +25,7 @@ I am stress-resistant, energetic, responsive.
 # CODE
 ````
 function multiply (a,b) {
-return a*b;}
+return a*b; }
 multiply();
 ````
 # COURCES
